@@ -1,16 +1,5 @@
 # 참고 소스 https://ccunpacked.dev/
 
-
------
-
-# Claude Code 전체 소스 코드, npm 소스맵을 통해 유출되다
-
-> **PS:** 이 분석 내용은 [이 블로그](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it)에서 더 나은 UX와 읽기 환경으로 확인하실 수 있습니다.
-
-> **참고:** 이 저장소는 삭제될 가능성이 있습니다. 나중에 살펴보거나 직접 보관하고 싶다면 **Fork**를 하거나 외부 블로그 링크를 북마크해 두세요\!
-
------
-
 ## ⚠️ 중요 고지 (Disclaimer)
 
 **본인은 이 파일을 유출하지 않았습니다.** 저는 단순히 연구 목적으로 이 코드베이스에 접근하고 학습할 수 있도록 문서화된 방법을 제공할 뿐입니다. 모든 파일과 정보는 Twitter/X에 공유된 공개된 발견 사항에서 비롯되었습니다. 발견에 대한 모든 공로는 최초 제보자에게 있습니다.
